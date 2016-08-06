@@ -1,0 +1,28 @@
+_repo: A-Visit-to-the-Monastery-of-La-Trappe-in-1817--13-Illustrated-with-Numerous-Coloured-Engravin__10864
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fellowes, W. D. (William Dorset)
+    alias: Fellowes, William Dorset
+    gutenberg_agent_id: '3728'
+    url: http://www.gutenberg.org/2009/agents/3728
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Abbaye de la Trappe (Soligny-la-Trappe, France)'
+- !lcsh 'France -- Description and travel'
+- !lcc 'BX'
+- GITenberg
+title: "A Visit to the Monastery of La Trappe in 1817\r\nWith Notes Taken During a\
+  \ Tour Through Le Perche, Normandy, Bretagne, Poitou, Anjou, Le Bocage, Touraine,\
+  \ Orleanois, and the Environs of Paris.\r\nIllustrated with Numerous Coloured Engravings,\
+  \ from Drawings Made on the Spot"
+url: http://www.gutenberg.org/ebooks/10864
