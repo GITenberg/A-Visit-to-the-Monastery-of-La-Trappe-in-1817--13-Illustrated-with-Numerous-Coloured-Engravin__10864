@@ -1,5 +1,8 @@
 _repo: A-Visit-to-the-Monastery-of-La-Trappe-in-1817--13-Illustrated-with-Numerous-Coloured-Engravin__10864
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fellowes, W. D. (William Dorset)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3728'
     url: http://www.gutenberg.org/2009/agents/3728
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10864#A-Visit-to-the-Monastery-of-La-Trappe-in-1817--13-Illustrated-with-Numerous-Coloured-Engravin_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
